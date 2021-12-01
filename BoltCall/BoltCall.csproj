@@ -37,6 +37,9 @@
       <HintPath>..\..\..\..\..\..\..\Dev-Libraries\CSCore-Audio\CSCore.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\..\..\..\..\Dev-Libraries\Newtonsoft-JSON\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Windows.Forms" />
